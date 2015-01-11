@@ -20,4 +20,4 @@ script:
 
 notifications:
   email:
-    - matthiasnoback@gmail.com
+    - travis@secutor.nl

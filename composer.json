@@ -1,13 +1,13 @@
 {
-    "name": "matthiasnoback-workshop/groningen-php",
+    "name": "php-groningen/package-dev-workshop",
     "autoload": {
         "psr-4": {
-            "MatthiasnobackWorkshop\\GroningenPHP\\": "src/"
+            "PHPGroningen\\PackageDevWorkshop\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "MatthiasnobackWorkshop\\GroningenPHP\\Tests\\": "tests/"
+            "PHPGroningen\\PackageDevWorkshop\\Tests\\": "tests/"
         }
     },
     "require": {

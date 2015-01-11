@@ -1,6 +1,6 @@
 <?php
 
-namespace MatthiasnobackWorkshop\GroningenPHP;
+namespace PHPGroningen\PackageDevWorkshop;
 
 class Workshop
 {

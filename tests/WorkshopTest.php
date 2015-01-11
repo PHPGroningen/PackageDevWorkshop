@@ -1,9 +1,9 @@
 <?php
 
-namespace MatthiasnobackWorkshop\GroningenPHP\Tests;
+namespace PHPGroningen\PackageDevWorkshop\Tests;
 
-use MatthiasnobackWorkshop\GroningenPHP\Workshop;
-use PHPUnit_Framework_TestCase;
+use \PHPGroningen\PackageDevWorkshop\Workshop;
+use \PHPUnit_Framework_TestCase;
 
 class WorkshopTest extends PHPUnit_Framework_TestCase
 {
